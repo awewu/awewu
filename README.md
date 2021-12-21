@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=awewu&show_icons=true&theme=vue&locale=cn">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awewu&repo=awewu.github.io)](https://github.com/awewu/awewu.github.io)
+
