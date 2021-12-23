@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 <br/>
 <hr/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awewu&repo=awewu.github.io&theme=vue&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awewu&repo=awewu.github.io&theme=flag-india&show_owner=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=awewu&repo=blog_backup&theme=vue&show_owner=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=awewu&repo=blog_backup&theme=flag-india&show_owner=true" />
 </a>
