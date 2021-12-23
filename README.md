@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awewu&repo=awewu.github.io)](https://github.com/awewu/awewu.github.io)-->
 <br/>
+<hr/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awewu&repo=awewu.github.io&theme=vue&show_owner=true" />
 </a>
