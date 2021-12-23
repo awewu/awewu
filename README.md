@@ -25,3 +25,11 @@ Here are some ideas to get you started:
 - 😄 空惆怅，少年豪放，莫学衰翁样 
 
 
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awewu&repo=awewu.github.io)](https://github.com/awewu/awewu.github.io)-->
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awewu&repo=awewu.github.io&theme=vue&show_owner=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=awewu&repo=blog_backup&theme=vue&show_owner=true" />
+</a>
