@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awewu&repo=awewu.github.io)](https://github.com/awewu/awewu.github.io)-->
 <br/>
 <hr/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/awewu/awewu.github.io">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awewu&repo=awewu.github.io&theme=flag-india&show_owner=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/awewu/blog_backup">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=awewu&repo=blog_backup&theme=flag-india&show_owner=true" />
 </a>
