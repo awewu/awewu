@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=awewu&show_icons=true&theme=vue&locale=cn">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=awewu&show_icons=true&theme=flag-india&locale=cn">
 
 ### Hi there 👋
 
@@ -28,9 +28,21 @@ Here are some ideas to get you started:
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awewu&repo=awewu.github.io)](https://github.com/awewu/awewu.github.io)-->
 <br/>
 <hr/>
+
 <a href="https://github.com/awewu/awewu.github.io">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awewu&repo=awewu.github.io&theme=flag-india&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awewu&repo=awewu.github.io&theme=flag-india&show_owner=false&locale=cn" />
 </a>
 <a href="https://github.com/awewu/blog_backup">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=awewu&repo=blog_backup&theme=flag-india&show_owner=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=awewu&repo=blog_backup&theme=flag-india&show_owner=false&locale=cn" />
 </a>
+  
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<hr/>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awewu&layout=compact&locale=cn&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
